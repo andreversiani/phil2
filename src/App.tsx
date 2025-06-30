@@ -17,9 +17,9 @@ function App() {
         <h1>Philip II da Macedônia</h1>
         <img src={phil_face}></img>
         </div>
-        <div>Philip II da Macedônia foi rei da Macedônia de 359 a 336 a.C. e conquistou diversos territórios deixando seu legado para seu filho, Alexandre o Grande</div>
+        <div>Philip II da Macedônia foi rei da Macedônia de 359 a 336 a.C. e conquistou diversos territórios deixando seu legado para seu filho, Alexandre o Grande.</div>
 
-        <h2>Coleção de Moedas</h2>
+        <h2>Moedas em sua homenagem</h2>
         <a target="_blank">
           <img src={phil1} />
           <img src={phil2} />
@@ -34,8 +34,8 @@ function App() {
         <h1>Philip I da SYDLE</h1>
         <img src={phil_real_face2} style={{ borderRadius: '50%' }}></img>
         </div>
-        <div>Philip I da SYDLE é um Engenheiro da SYDLE que obteve sua primeira conquista, seu primeiro ano</div>
-        <h2>Coleção de Moedas</h2>
+        <div>Philip I da SYDLE é um Engenheiro da SYDLE que obteve sua primeira conquista, seu primeiro ano.</div>
+        <h2>Moedas em sua homenagem</h2>
         <div> 
           Em breve..
         </div>
