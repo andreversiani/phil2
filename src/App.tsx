@@ -34,7 +34,7 @@ function App() {
         <h1>Philip I da SYDLE</h1>
         <img src={phil_real_face2} style={{ borderRadius: '50%' }}></img>
         </div>
-        <div>Philip I da SYDLE é um Engenheiro da SYDLE que obteve sua primeira conquista, seu primeiro ano.</div>
+        <div>Phillip I da SYDLE é um Engenheiro da SYDLE que obteve sua primeira conquista, seu primeiro ano.</div>
         <h2>Moedas em sua homenagem</h2>
         <div> 
           Em breve..
