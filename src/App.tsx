@@ -31,7 +31,7 @@ function App() {
       </div>
       <div>
         <div style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
-        <h1>Philip I da SYDLE</h1>
+        <h1>Phillip I da SYDLE</h1>
         <img src={phil_real_face2} style={{ borderRadius: '50%' }}></img>
         </div>
         <div>Phillip I da SYDLE é um Engenheiro da SYDLE que obteve sua primeira conquista, seu primeiro ano.</div>
